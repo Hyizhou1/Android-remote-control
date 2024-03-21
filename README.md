@@ -1,4 +1,5 @@
 # Android-remote-control
+联系我https://t.me/hongsx
 安卓手机 电脑远程操作
 内网穿透
 1 下载注册路由侠，花生壳等内网穿透软件
